@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Do not ownhave access</name>
+   <tag></tag>
+   <elementGuidId>ef8a53c0-d24e-4eaa-91a2-9e0153ae2ab2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='appbundle_project_googleMyBusiness']/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>3486697b-facd-44c1-9619-f2b01f860882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-label</value>
+      <webElementGuid>386633ff-a0e7-4443-97aa-5770de8439b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>appbundle_project_googleMyBusiness_1</value>
+      <webElementGuid>a5459a75-e239-457a-9685-e72ae3f75889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Do not own/have access</value>
+      <webElementGuid>f31c0199-d23a-4cac-b67d-96221169a1e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;appbundle_project_googleMyBusiness&quot;)/div[@class=&quot;form-check&quot;]/label[@class=&quot;form-check-label&quot;]</value>
+      <webElementGuid>7b6d1e86-f7dd-48d0-b32b-688f1233feab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='appbundle_project_googleMyBusiness']/div[2]/label</value>
+      <webElementGuid>386fa384-dff3-4ebc-a985-18f7449d34a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Provided'])[3]/following::label[1]</value>
+      <webElementGuid>b1b2a02d-3815-4fce-a07c-123aeac808d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do not own/have access'])[2]/following::label[2]</value>
+      <webElementGuid>e839b3ec-ada4-4b59-9275-996ee6351085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::label[1]</value>
+      <webElementGuid>e8c00577-9cf9-40d5-9eff-1fa5258881ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/preceding::label[1]</value>
+      <webElementGuid>ad5e0e3e-2fd2-4ade-8eba-a641e1811c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/fieldset/div/div[2]/label</value>
+      <webElementGuid>05f22d48-8af3-4d5c-a5f4-55f9d00a233f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Do not own/have access' or . = 'Do not own/have access')]</value>
+      <webElementGuid>f5276b56-922a-4d06-a3e3-13517fb8073b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login</name>
+   <tag></tag>
+   <elementGuidId>79ae0ef8-40b1-4760-847c-d00decbadcaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Success!'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.bordered-btn-bl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>25d26227-6f53-4427-af88-b07daf9055f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bordered-btn-bl</value>
+      <webElementGuid>66d22636-9c08-4d35-b4ec-513736b1b9ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>da6c6662-5375-48b6-b7d5-9d431533dece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@class=&quot;widescreen&quot;]/section[1]/div[@class=&quot;container-alt&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;wrapper-page&quot;]/div[@class=&quot;m-t-40 account-pages&quot;]/div[@class=&quot;account-content&quot;]/div[@class=&quot;text-center&quot;]/a[@class=&quot;text-center m-l-5&quot;]/button[@class=&quot;bordered-btn-bl&quot;]</value>
+      <webElementGuid>f1992b35-17db-43a8-9ed2-d3c090370174</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success!'])[1]/following::button[1]</value>
+      <webElementGuid>dd33189d-b4ac-4d86-8dbe-93d479941d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>9a475fb0-d585-4c12-aee1-6d63b2e934fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>68d71856-b931-4953-b104-f5cc34b11450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>543ea4d0-fe21-4b6a-8077-1f8366006ef1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

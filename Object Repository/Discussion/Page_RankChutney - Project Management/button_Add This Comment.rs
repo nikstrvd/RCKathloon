@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add This Comment</name>
+   <tag></tag>
+   <elementGuidId>7c7620ac-9af2-4eed-a9e9-c81308ef5848</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-rounded.btn-primary.m-t-10</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>69785a05-c95a-486f-9e4b-33d19826b897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>cac94769-5555-4a35-83a8-4205d24375c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-rounded btn-primary m-t-10</value>
+      <webElementGuid>34ae68fe-d02a-48db-b11a-15901c6215bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add This Comment</value>
+      <webElementGuid>178254b9-de3d-4abb-96b0-5a0bead186d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;content-page&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;card-box discussions&quot;]/div[@class=&quot;m-t-30&quot;]/div[@class=&quot;row clearfix&quot;]/div[@class=&quot;col-xs-10 col-lg-11&quot;]/div[@class=&quot;comment-wrapper&quot;]/div[@class=&quot;comment-render&quot;]/form[1]/button[@class=&quot;btn btn-rounded btn-primary m-t-10&quot;]</value>
+      <webElementGuid>4c9477fb-8a7d-4896-8876-8646f83904fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[3]</value>
+      <webElementGuid>6af1910a-6a0f-4c8a-b0ca-1a7fe9a35ac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div/div[2]/div/div[2]/div[4]/div/div[2]/div/div[2]/form/button</value>
+      <webElementGuid>8061818f-a594-4d1e-9499-b061bb67e660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today Monthly Testing'])[1]/following::button[1]</value>
+      <webElementGuid>c376dfcf-672b-40a9-bb88-4ded67331f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redo'])[2]/following::button[1]</value>
+      <webElementGuid>51d5ad19-838b-4330-88e6-4f75675c8ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='August 3, 2022 4:04 am'])[1]/preceding::button[1]</value>
+      <webElementGuid>8ef1ea94-e6dd-485e-b8a0-8c1126bbcf34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::button[1]</value>
+      <webElementGuid>31e282b4-e520-430b-b144-ab8615945238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add This Comment']/parent::*</value>
+      <webElementGuid>bad3bc2b-b70e-414f-965a-705dfd8d9142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>5e14fb3c-fb9f-4c0e-9605-5902b224be0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Add This Comment' or . = 'Add This Comment')]</value>
+      <webElementGuid>be5fe8e3-2e3d-4e9a-bdb1-7bbc514a7a32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

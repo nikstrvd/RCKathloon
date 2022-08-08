@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_General Information</name>
+   <tag></tag>
+   <elementGuidId>4745511d-a17c-4b00-b1e6-20d4892c3444</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[3]/div/div/div[2]/form/div/div/div/ul/li[2]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b3548840-1eb7-45d2-859f-7423036a5220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden-xs</value>
+      <webElementGuid>e1346c25-b5d8-468a-8e2c-9bb2da35fb46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Information</value>
+      <webElementGuid>876b757f-1dcb-40ae-93c6-622b0396a1ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;content-page&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/form[1]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;card-box&quot;]/div[@class=&quot;col-sm-12 project-tabs&quot;]/ul[@class=&quot;nav nav-tabs tabs-bordered&quot;]/li[2]/a[1]/span[@class=&quot;hidden-xs&quot;]</value>
+      <webElementGuid>8c67d689-51ac-4f65-af89-9d53b1b1d7f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div/div[2]/form/div/div/div/ul/li[2]/a/span[2]</value>
+      <webElementGuid>09d5f146-076c-4bbf-9814-bd2cced086b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Details'])[2]/following::span[2]</value>
+      <webElementGuid>d646ddb9-2715-4437-b0b8-8fd763415b7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Project'])[2]/following::span[4]</value>
+      <webElementGuid>fee7b2c7-1fd3-49d2-901b-7a69057e631e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEO Information'])[1]/preceding::span[2]</value>
+      <webElementGuid>f14af250-f40b-425e-b7dd-00cfde1c4079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tracking'])[1]/preceding::span[4]</value>
+      <webElementGuid>6c78185a-779d-4505-9a18-e8b1fcead7f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='General Information']/parent::*</value>
+      <webElementGuid>6df10326-c22b-4eed-b047-392e6c17512a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span[2]</value>
+      <webElementGuid>5a110525-d4c5-4b52-bc75-0c88ba135aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'General Information' or . = 'General Information')]</value>
+      <webElementGuid>c5d4e7e5-52ae-4eb3-9219-46edbd72902b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

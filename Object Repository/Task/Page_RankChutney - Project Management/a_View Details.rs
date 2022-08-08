@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Details</name>
+   <tag></tag>
+   <elementGuidId>8ca3570e-e5ce-49d6-84b8-84a543d0d72e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='datatable-buttons']/tbody/tr[2]/td[8]/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown.open > ul.dropdown-menu.dropdown-menu-right > li > a.link.tooltipstered</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eaf22c36-29ce-477c-ae84-424266eb079b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/rcportal/user/task/discuss/88561d4cd7a0d18a1634</value>
+      <webElementGuid>aa1ae443-7fe9-4726-88c4-8eeec756490e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link tooltipstered</value>
+      <webElementGuid>3f5a1a0b-95f6-4b50-8012-042fa093a035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>62fdef40-1bd3-4168-b549-57eb417223e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>bottom</value>
+      <webElementGuid>5910d90d-140a-4cd0-a495-f7bf06de10b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Details</value>
+      <webElementGuid>eaee3b15-754a-41cb-8daa-4e18e7c917ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable-buttons&quot;)/tbody[@class=&quot;small&quot;]/tr[@class=&quot;even&quot;]/td[@class=&quot;actions&quot;]/div[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right&quot;]/li[1]/a[@class=&quot;link tooltipstered&quot;]</value>
+      <webElementGuid>fcf4fb32-87ac-454a-a9d9-9341f232b016</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='datatable-buttons']/tbody/tr[2]/td[8]/div/ul/li/a</value>
+      <webElementGuid>084af8f4-a676-4bd8-8194-3040bde4faf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'View Details')])[2]</value>
+      <webElementGuid>4fbf971f-94a0-480b-81ba-5dff0ed306ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='open'])[2]/following::a[2]</value>
+      <webElementGuid>0d31f64c-590c-4e99-9999-c81c6da05aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/following::a[2]</value>
+      <webElementGuid>ae6e5417-794b-4abb-8ea7-0c463b887d3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optimize Website'])[1]/preceding::a[1]</value>
+      <webElementGuid>9402e435-6d80-40fc-8af7-1f39de41b1c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acoount Manager'])[3]/preceding::a[1]</value>
+      <webElementGuid>0da85e72-cab5-4011-a192-8e8322e371c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/rcportal/user/task/discuss/88561d4cd7a0d18a1634')]</value>
+      <webElementGuid>de40eaa1-3cf9-4e5a-b6ae-bba733d72aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[8]/div/ul/li/a</value>
+      <webElementGuid>eb26e548-eb94-46f2-be95-5752b8a4fc7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/rcportal/user/task/discuss/88561d4cd7a0d18a1634' and (text() = 'View Details' or . = 'View Details')]</value>
+      <webElementGuid>1d0b7b47-a052-4582-83ea-60c75d0a060f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

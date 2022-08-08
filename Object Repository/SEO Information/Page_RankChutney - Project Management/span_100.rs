@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_100</name>
+   <tag></tag>
+   <elementGuidId>55aa0a11-0938-4596-9bff-fd4af01e8827</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[3]/div/div/div[2]/div/div/div/a/div/h3/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.m-b-10.purple-clr > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>28f84710-b8f9-4370-8653-1bd19a5ad157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                          100%
+                                                                          </value>
+      <webElementGuid>930dc487-8ff1-49c4-8618-cf4385e4f48f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;content-page&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row dash-four-card&quot;]/div[@class=&quot;col-lg-3 col-md-6 col-sm-6 print-col-6&quot;]/a[1]/div[@class=&quot;card-box widget-box-three&quot;]/h3[@class=&quot;m-b-10 purple-clr&quot;]/span[1]</value>
+      <webElementGuid>e434791e-b034-4201-842f-c49ebbbc4fb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div/div[2]/div/div/div/a/div/h3/span</value>
+      <webElementGuid>76cf8dfe-637a-48ec-9c44-491da2e1a52c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::span[1]</value>
+      <webElementGuid>62e06f99-8478-43c8-be45-1d65aaad6e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discussions'])[2]/preceding::span[2]</value>
+      <webElementGuid>8ebbb8f4-41af-4dd5-8226-6b4c6d7380a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/preceding::span[2]</value>
+      <webElementGuid>3035a10e-05af-418d-8afb-373e6a4e0e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='100%']/parent::*</value>
+      <webElementGuid>a4471653-f5de-4f9b-986f-2bdae3eaedd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/span</value>
+      <webElementGuid>d9940278-af5f-4e74-9acf-77a761fa33a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                                                          100%
+                                                                          ' or . = '
+                                                                          100%
+                                                                          ')]</value>
+      <webElementGuid>836eca76-4b49-493e-95fe-ceb10818f718</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

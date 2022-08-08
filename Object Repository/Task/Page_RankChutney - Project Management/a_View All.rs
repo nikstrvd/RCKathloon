@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View All</name>
+   <tag></tag>
+   <elementGuidId>3e0e0085-e007-44b0-9117-c5b4685d9e32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[3]/div/div/div[3]/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9833fff2-8583-441e-9678-7fa26267df03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/rcportal/user/projects/3aa3f64913bd6cfaf699/client-tasks</value>
+      <webElementGuid>c37cb41b-51a9-4622-9c2b-aea7fcc85275</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dash-link</value>
+      <webElementGuid>ec9ace8a-c5d4-4838-b8db-6d2557af234e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View All</value>
+      <webElementGuid>259a5ba2-6e79-424a-8fe8-5e7b3c5ad381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;content-page&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;card-box&quot;]/a[@class=&quot;dash-link&quot;]</value>
+      <webElementGuid>60088548-99fc-42e7-a65b-401406ffc461</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div/div[3]/div[2]/div/a</value>
+      <webElementGuid>dbda8735-13be-4caa-9334-13b8ab8614bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'View All')])[2]</value>
+      <webElementGuid>51eac9db-0599-41a4-ba53-daeed534dd5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tasks'])[2]/following::a[1]</value>
+      <webElementGuid>5a881c2e-8918-4e04-b46a-1b4c845d9e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sem'])[3]/following::a[1]</value>
+      <webElementGuid>79d1ea5a-8933-41b2-94ee-e816aac39d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task Name'])[1]/preceding::a[1]</value>
+      <webElementGuid>6fa4202f-cbd3-44d7-9ce6-d2cadb628fb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/preceding::a[1]</value>
+      <webElementGuid>1549592d-0f5d-4252-849e-9c18a57afb82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/rcportal/user/projects/3aa3f64913bd6cfaf699/client-tasks')])[2]</value>
+      <webElementGuid>32a5393f-a2ba-45b2-9713-1994237df191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>ca46a1b2-f786-4a5c-a2d2-12e1aaa9b659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/rcportal/user/projects/3aa3f64913bd6cfaf699/client-tasks' and (text() = 'View All' or . = 'View All')]</value>
+      <webElementGuid>57fb4a8c-be7f-41c8-8c9f-ae19acf963cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

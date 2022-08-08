@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_See all Notification_img-circle user-im_e52901</name>
+   <tag></tag>
+   <elementGuidId>dda81a70-d09b-4f68-9c30-6a6eb799490f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div[2]/div/ul[2]/li[2]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-circle.user-img.user-avatar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fa257519-cf16-4e82-86c4-c6ef85a75811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value> https://rankchutney.com/wp-content/plugins/wordpress-portal/web/assets/images/users/avatar-default.png</value>
+      <webElementGuid>4bf36f6c-8b9d-4371-a84d-684753ffcb5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>user-img</value>
+      <webElementGuid>1c7bca89-c0ac-4006-ad18-596a44d46915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-circle user-img user-avatar</value>
+      <webElementGuid>33c21a47-19cd-41a6-b200-6bdeee2a92a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;topbar&quot;]/div[@class=&quot;navbar navbar-default&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;nav navbar-nav navbar-right&quot;]/li[@class=&quot;dropdown user-box&quot;]/a[@class=&quot;dropdown-toggle waves-effect user-link&quot;]/img[@class=&quot;img-circle user-img user-avatar&quot;]</value>
+      <webElementGuid>a19d90f8-2685-4903-99e2-ea3d19080d1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div[2]/div/ul[2]/li[2]/a/img</value>
+      <webElementGuid>0d54a104-d1eb-4029-a5a9-b5114f16c925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='user-img']</value>
+      <webElementGuid>b078852b-ea18-4a12-bb88-1ed596d87345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[2]/a/img</value>
+      <webElementGuid>c2e3b893-ac7c-4ef2-b9de-9dcf1701a277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = ' https://rankchutney.com/wp-content/plugins/wordpress-portal/web/assets/images/users/avatar-default.png' and @alt = 'user-img']</value>
+      <webElementGuid>be8a5559-7ece-49ec-8aa7-5005feb93f8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
